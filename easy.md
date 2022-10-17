@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Easy Assignments 9:44 am
+# Easy Assignments 9:48 am
 
 {{ site.baseurl }}
 
