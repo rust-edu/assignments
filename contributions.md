@@ -1,4 +1,4 @@
-# Contributing Rust Assignments
+# To Contribute a Rust Assignment
 * All assignments in this repository are licensed [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). 
 Make sure you are comfortable with those license requirements before submitting an assignment.
 * Fork the [repository](https://github.com/rust-edu/assignments). To create a new fork:
