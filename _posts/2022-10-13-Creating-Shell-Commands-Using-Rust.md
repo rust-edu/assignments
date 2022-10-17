@@ -1,6 +1,4 @@
 ---
-layout: work
-worktitle: Creating Shell Commands Using Rust
 tags:
 - Operating Systems
 - Easy

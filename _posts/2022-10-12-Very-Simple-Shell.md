@@ -1,6 +1,4 @@
 ---
-layout: work
-worktitle: Very Simple Shell
 tags:
 - Operating Systems
 - Difficult

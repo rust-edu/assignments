@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Moderate Assignments
 
 <ul>

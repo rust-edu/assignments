@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Operating Systems Assignments
 
 <ul>

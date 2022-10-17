@@ -1,6 +1,4 @@
 ---
-layout: work
-worktitle: Web Server
 tags:
 - Operating Systems
 - Difficult

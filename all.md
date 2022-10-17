@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # All Assignments
 
 <ul>

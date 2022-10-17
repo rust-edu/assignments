@@ -1,6 +1,4 @@
 ---
-layout: work
-worktitle: Game Kernel
 tags:
 - Operating Systems
 - Moderate

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Easy Assignments
 
 {{ site.baseurl }}

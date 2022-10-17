@@ -1,8 +1,3 @@
-+++
-title = "Contributions"
-+++
-
-
 # Contributing Rust Assignments
 * All assignments in this repository are licensed [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). 
 Make sure you are comfortable with those license requirements before submitting an assignment.
@@ -21,16 +16,13 @@ Below is an example header to use as a model:
 
 ```
 ---
-layout: work
-worktitle: Creating Shell Commands Using Rust
 tags:
 - Operating Systems
 - Easy
 ---
 ```
 
-* Replace the `worktitle` value with the title of your assignment.
-* Add whatever tags you consider appropriate for your assignment. If you would like to suggest a new tag, please post an Issue. Current tags include:
+Add whatever tags you consider appropriate for your assignment. If you would like to suggest a new tag, please post an Issue. Current tags include:
 <ul>
 {% for tag in site.tags %}
   <li> {{ tag | first }} </li>

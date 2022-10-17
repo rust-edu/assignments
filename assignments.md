@@ -1,8 +1,3 @@
----
-layout: default
----
-
-
 # Finding Rust Assignments
 
 * [All Assignments](all.html)

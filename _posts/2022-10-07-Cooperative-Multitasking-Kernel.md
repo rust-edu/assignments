@@ -1,6 +1,4 @@
 ---
-layout: work
-worktitle: Cooperative Multitasking Kernel
 tags:
 - Operating Systems
 - Difficult

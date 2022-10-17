@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Rust Assignment Archive
 
 Welcome to the Rust assignment archive! Our goal is to provide a central

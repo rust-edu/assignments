@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Difficult Assignments
 
 <ul>

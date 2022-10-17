@@ -1,6 +1,4 @@
 ---
-layout: work
-worktitle: Bare Metal Game
 tags:
 - Operating Systems
 - Moderate
