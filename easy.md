@@ -6,6 +6,6 @@ layout: default
 
 <ul>
 {% for post in site.tags["Easy"] %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a>{{ post.url }}</li>
 {% endfor %}
 </ul>
