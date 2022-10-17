@@ -18,7 +18,7 @@ and even have multiple instances of the same game in progress at once.
 
 Here is a screenshot of how the Game Kernel looks:
 
-<img src="{{site.url}}{{site.baseurl}}/assets/images/Game_Kernel_In_Progress.PNG" width=500>
+<img src="https://rust-edu.org/assignments/assets/images/Game_Kernel_In_Progress.PNG" width=500>
 
 Here is a summary of the required functionality:
 * When the Game Kernel starts, we see a starting screen with three lines of

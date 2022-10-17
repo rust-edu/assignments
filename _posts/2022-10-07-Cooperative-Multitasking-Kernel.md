@@ -64,7 +64,7 @@ When a timer interrupt occurs:
 	
 Here is a screenshot of how the Cooperative Multitasking Kernel looks:
 
-<img src="{{site.baseurl}}/assets/images/coop_os_four_procs.png" width=500>
+<img src="https://rust-edu.org/assignments/assets/images/coop_os_four_procs.png" width=500>
 
 In this screenshot:
 * Process `F1` has completed. Its result is displayed, and the user can select to run
@@ -133,7 +133,7 @@ Do they work as advertised? Feel free to add additional information to
 
 * Start by implementing the starting screen:
 
-<img src="{{site.baseurl}}/assets/images/coop_os_start.png" width=500>
+<img src="https://rust-edu.org/assignments/assets/images/coop_os_start.png" width=500>
 
 * Next, implement program selection
   * Highlight the currently selected window in response to the appropriate function key
