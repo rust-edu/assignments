@@ -1,14 +1,17 @@
 # Contributing Rust Assignments
 * All assignments in this repository are licensed [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). 
 Make sure you are comfortable with those license requirements before submitting an assignment.
-* Fork the repository.
+* Fork the [repository](https://github.com/rust-edu/assignments).
 * Add your assignment to the [`_posts`](https://github.com/rust-edu/assignments/tree/main/_posts) folder.
   * The assignment should be in [`md`](https://www.markdownguide.org/) format, with a header as described below.
 * Its filename should be in the following format:
   * `YYYY-MM-DD-Title`
   * For `YYYY-MM-DD`, use the current date.
   * Make sure that `Title` is consistent with the title of the assignment in the body of its text.
-* Once your assignment is ready, make a pull request to contribute it.
+* Once your assignment is ready, make a pull request to contribute it. To make a pull request:
+  * Go to your `github` fork of the repository.
+  * Find the `Contribute` drop-down menu.
+  * Click on the green button labeled `Open pull request`.
 
 ## Header
 
