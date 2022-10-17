@@ -1,7 +1,9 @@
 # Contributing Rust Assignments
 * All assignments in this repository are licensed [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). 
 Make sure you are comfortable with those license requirements before submitting an assignment.
-* Fork the [repository](https://github.com/rust-edu/assignments).
+* Fork the [repository](https://github.com/rust-edu/assignments). To create a new fork:
+  * Find the `Fork` drop-down menu in the upper-right area of the repository page.
+  * Click on the menu and select `Create a new fork`.
 * Add your assignment to the [`_posts`](https://github.com/rust-edu/assignments/tree/main/_posts) folder.
   * The assignment should be in [`md`](https://www.markdownguide.org/) format, with a header as described below.
 * Its filename should be in the following format:
