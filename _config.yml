@@ -19,19 +19,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   virtual memory), memory managment, processes, processor scheduling, address spaces, 
   threads, the critical section problem, locks, sockets, file systems, and system performance 
   analysis.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/assignments" # the subpath of your site, e.g. /blog
+url: "https://rust-edu.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 number: Rust-Edu
 semester: Assignment Archive
 
 navigation:
   - page: Home
-    url: 'https://gjf2a.github.io'
+    url: 'https://rust-edu.org/assignments'
   - page: Find an Assignment
-    url: 'find.html'
+    url: 'assignments.html'
   - page: Add an Assignment
-    url: 'add.html'
+    url: 'contributions.html'
 
 # Build settings
 markdown: kramdown
